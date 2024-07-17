@@ -1,0 +1,1 @@
+const t = "Devedor safado vou quebrar sua perna"
